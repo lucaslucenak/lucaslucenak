@@ -7,6 +7,7 @@ Estudante de Ciências da Computação da Universidade Estadual da Paraíba (UEP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslucenak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+- [Certificações](https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/edit?usp=sharing)<br/>
 
 
 ### Tecnologias que já tenho experiência:

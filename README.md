@@ -1,7 +1,9 @@
 
-### Olá! Eu me chamo Lucas Lucena 🧐
+### Hey! I'm Lucas Lucena 🧐
 
-Estudante de Ciências da Computação da Universidade Estadual da Paraíba (UEPB), entusiasmado por tecnologia que busca aprender e aperfeiçoar cada vez mais os conhecimentos relativos à programação.
+Computer Science Student at UEPB, excited by technology that wants to learn and improve more and more all the knowledge related to programing.
+
+
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslucenak&show_icons=true&theme=synthwave)
 
@@ -10,7 +12,7 @@ Estudante de Ciências da Computação da Universidade Estadual da Paraíba (UEP
 - [Certificações](https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/edit?usp=sharing)<br/>
 
 
-### Tecnologias que já tenho experiência:
+### Technologies with previous experience:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt = "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -23,13 +25,13 @@ Estudante de Ciências da Computação da Universidade Estadual da Paraíba (UEP
     <img align="center" alt = "NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-### Atualmente estudando:
+### Currently studing:
 <div style="display: inline_block"><br/>
     <img align="center" alt = "Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt = "Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <div/><br/>
 
-### Contato:
+### Contact:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lucena-6588271a3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslucenak/)

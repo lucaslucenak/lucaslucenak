@@ -1,5 +1,5 @@
 
-### Hey! I'm Lucas Lucena 🧐
+### Hey! I'm Lucas Lucena🧐
 
 Computer Science Student at UEPB, excited by technology that wants to learn and improve more and more all the knowledge related to programing.
 

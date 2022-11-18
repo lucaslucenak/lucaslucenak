@@ -30,7 +30,7 @@ Computer Science Student at UEPB, excited by technology that wants to learn and 
 ### Currently studing:
 <div style="display: inline_block"><br/>
     <img align="center" alt = "PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    !(Resume)[https://supreme-octopus-3bd.notion.site/PHP-ed2064ccbbb44b95bd1efd79710a1445]
+    https://supreme-octopus-3bd.notion.site/PHP-ed2064ccbbb44b95bd1efd79710a1445
 <div/><br/>
 
 ### Contact:
